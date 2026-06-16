@@ -1,0 +1,5 @@
+﻿CLAUDE ENTERPRISE ACCESS ROSTER — CreativeHub Task Force
+CONFIRMED ACCESS: Simone Giannotti, Daniele Catalano, Martino Perez, Gaia Sciretti, Francesca Bruschi, Luca Baldi, Alessia Bottinelli, Joanna Karolina Michalek, Filippo Coccolo, Davide Magnoni, Guillermo De Luna, Fabrizio Coco, Andrea Di Martino, Mateo Pinzon.
+EXCLUDED FROM CLAUDE USE FOR TEAM PURPOSES (cannot be sole Advisor operators): Teresa Giannoni, Marco Catani, Melissa Trojani, Riccardo Menoncin, Milena Sgaramella.
+UNCLEAR / NOT CONFIRMED (verify before assigning as operator): Federico (surname unknown), Andrea Zito, Bayron Vallejo, Giulia Petrolini, Antonia Helan, Fabio Di Meo, Michela Di Cristina, Michele Friolotto.
+Rule: every final project team must have at least one CONFIRMED ACCESS person who can operate the Advisor. Flag any team that does not.
